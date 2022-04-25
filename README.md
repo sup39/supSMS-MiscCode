@@ -6,9 +6,11 @@
 |[Instant Restart](#instant-restart)|◎|◎|[〇](https://twitter.com/torcnein/status/1518614922850148353)|？|
 |[Fast Forward](#fast-forward)|◎|◎|？|？|
 |[Skip Stage Intro](#skip-stage-intro)|◎|◎|？|？|
+|[Mirror Mode](#mirror-mode)|△|△|[Source](https://discord.com/channels/83214196182880256/273126568795176960/960281550275104768)|？|
 
 ◎: tested by sup39  
 〇: tested by others  
+△: tested by sup39 but not fully tested  
 ？: untested  
 
 ## Usage
@@ -40,3 +42,8 @@ but without being rendered on the screen.
 This code also handles QFT (but not SGT) properly just like the [Fast forward](#fast-forward) code.
 
 Note: **You may need to disable it manually when you are in secret stage and Bowser fight.**
+
+### Mirror Mode
+Ported from JoshuaMK's
+[Mirror Mode (NTSC-U)](https://discord.com/channels/83214196182880256/273126568795176960/960281550275104768)
+by [mapping memory among versions](https://github.com/sup39/supSMS-Utils/blob/main/GeckoConverter/convert.ipynb).
