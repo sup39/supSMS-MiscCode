@@ -2,8 +2,8 @@
 ## List of codes
 ||NTSC-J 1.0|NTSC-J 1.1|NTSC-U|PAL|
 |-|:-:|:-:|:-:|:-:|
-|[Pattern Selector](#pattern-selector)|◎|◎|？|？|
-|[Instant Restart](#instant-restart)|◎|◎|？|？|
+|[Pattern Selector](#pattern-selector)|◎|◎|[〇](https://twitter.com/torcnein/status/1518614922850148353)|？|
+|[Instant Restart](#instant-restart)|◎|◎|[〇](https://twitter.com/torcnein/status/1518614922850148353)|？|
 |[Fast Forward](#fast-forward)|◎|◎|？|？|
 |[Skip Stage Intro](#skip-stage-intro)|◎|◎|？|？|
 
@@ -29,7 +29,7 @@ You can change the `0808` in the 3rd line to the button input value you want.
 
 This code handles QFT (but not SGT) properly.
 
-### Skip Intro Cutscenes
+### Skip Stage Intro
 - press `R + D-Pad Up` to enable
 - press `R + D-Pad Down` to disable
 
