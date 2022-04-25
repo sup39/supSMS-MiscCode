@@ -1,4 +1,4 @@
-$ Skip intro cutscenes (v0.1.0, 2022/04/25) [sup39]
+$ Skip Stage Intro (v0.1.0, 2022/04/25) [sup39]
 283FBBF4 00000028
 C2291828 00000005
 899A0064 2C0C0001
