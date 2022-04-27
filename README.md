@@ -47,3 +47,5 @@ Note: **You may need to disable it manually when you are in secret stage and Bow
 Ported from JoshuaMK's
 [Mirror Mode (NTSC-U)](https://discord.com/channels/83214196182880256/273126568795176960/960281550275104768)
 by [mapping memory among versions](https://github.com/sup39/supSMS-Utils/blob/main/GeckoConverter/convert.ipynb).
+
+The function `TBathWaterFlatRenderer::render` is missing in NTSC-J 1.1 and PAL, and therefore the related codes are removed in these two versions.
