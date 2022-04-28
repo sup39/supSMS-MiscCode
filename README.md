@@ -9,7 +9,7 @@
 |[Mirror Mode](#mirror-mode)|◎|◎|[Source](https://discord.com/channels/83214196182880256/273126568795176960/960281550275104768)|？|
 
 ◎: tested by sup39  
-〇: tested by others
+〇: tested by others  
 ？: untested  
 
 ## Usage
